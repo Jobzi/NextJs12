@@ -12,7 +12,7 @@ function Header(){
                 </li>
                 <li className={style.li}>
                     <Link href="/yaw">
-                        <a className={style.a}>Yaw</a>
+                        <a className={style.a}>Blog</a>
                     </Link>
                 </li>
                 <li className={style.li}>

@@ -18,7 +18,7 @@
   padding: 2rem 0;
   border-top: 1px solid #eaeaea;
   justify-content: center;
-  align-items: center;
+  align-items: center baseline;
 }
 
 .footer a {
@@ -104,7 +104,6 @@
 }
 
 .logo {
-  height: 1em;
   margin-left: 0.5rem;
 }
 
