@@ -17,5 +17,6 @@
 }
 
 .li:hover{
-    background-color:rgba(24, 211, 202, 0.349) ;
+    background-color:rgba(211, 99, 24, 0.329) ;
+    font-weight: bold;
 }

@@ -11,7 +11,7 @@ function Header(){
                     </Link>
                 </li>
                 <li className={style.li}>
-                    <Link href="/yaw">
+                    <Link href="/blog">
                         <a className={style.a}>Blog</a>
                     </Link>
                 </li>

@@ -7,7 +7,7 @@ function Yaw() {
   return (
     <>
       <HeadSEO
-        title="YAW | HOME"
+        title="YAW | Home"
         description="Hellow every one this is a information about Yaw"
       />
       <main className={styles.main}>
